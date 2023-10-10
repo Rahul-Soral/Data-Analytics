@@ -1,2 +1,2 @@
 # Data-Analytics
-This repository contains all the projects regarding power bi, excel, SQL, Python
+This repository contains my Excel project and its details.
