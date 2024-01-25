@@ -1,4 +1,4 @@
-#project insights 
+# project insights 
 1️⃣ Gathered a Sample Dataset of Road accidents in UK in 2022 & 2023.
 My Data Analysis of the sample dataset includes :
 • Total Casualties taken place after the accident
